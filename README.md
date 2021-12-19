@@ -9,4 +9,5 @@ cargo install --git https://github.com/project-serum/anchor --tag v0.17.0 anchor
 
 # Installing Solana on M1
 https://dev.to/nickgarfield/how-to-install-solana-dev-tools-on-an-m1-mac-kfn
+<br>
 https://www.youtube.com/watch?v=mR3Ipaju-ec
